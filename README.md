@@ -54,7 +54,7 @@ I am a Electrical Engineer student <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hossein-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-jafari2001/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HosseinJafari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-jafari2001/)
 
 ---
 

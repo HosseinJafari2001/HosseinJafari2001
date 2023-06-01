@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> -->
-<img src="https://giphy.com/embed/ko7twHhomhk8E" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-ko7twHhomhk8E">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ko7twHhomhk8E" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-ko7twHhomhk8E">
 
 <h1>
   hey there

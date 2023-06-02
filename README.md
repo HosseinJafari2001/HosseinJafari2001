@@ -21,8 +21,16 @@ Here are some ideas to get you started:
 
 <!-- ![lightening ](https://github.com/HosseinJafari2001/HosseinJafari2001/assets/70998598/68e4d649-ebd0-440a-8058-c9a62f0a517c) -->
 
+<!--
 <h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=HosseinJafari2001&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=HosseinJafari2001&style=flat-square&color=red" alt=""/>
+</h1>
+-->
+
+<h1 align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=HosseinJafari2001&label=Profile%20Views&color=7&icon=0&pretty=true" />
+</a>
 </h1>
 
 <!-- <div align="center">
@@ -95,3 +103,4 @@ I am a Electrical Engineer student <img src="https://media.giphy.com/media/WUlpl
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 </h1>
+

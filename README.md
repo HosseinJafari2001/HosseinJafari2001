@@ -116,7 +116,7 @@ I am a Electrical Engineer student <img src="https://media.giphy.com/media/WUlpl
 
  <h1 align="center">
 
-![Snake animation](https://github.com/thepiyushmalhotra/HosseinJafari2001/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/HosseinJafari2001/output/github-contribution-grid-snake.svg)
 
 </h1>
 

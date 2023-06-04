@@ -116,7 +116,7 @@ I am a Electrical Engineer student <img src="https://media.giphy.com/media/WUlpl
 
  <h1 align="center">
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HosseinJafari2001/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
   
 </h1>
 

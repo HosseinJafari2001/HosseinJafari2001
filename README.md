@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am a Electrical Engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
 - :telescope: I’m working as an Electrical Engineer and contributing to distribution girds and AI.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I hang out and read tech articles.
+- :zap: I hang out and read tech articles in my free time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HosseinJafari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-jafari2001/)
 
@@ -99,14 +99,15 @@ I am a Electrical Engineer student <img src="https://media.giphy.com/media/WUlpl
 <!--
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HosseinJafari2001&hide=B&theme=vision-friendly-dark)
 -->
-
+<!--
 ## 🏆 GitHub Trophies
 <h1 align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=HosseinJafari2001&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 </h1>
-
+-->
+<!--
 ### ✍️ Random Dev Quote
 <h1 align="center">
   
@@ -119,7 +120,7 @@ I am a Electrical Engineer student <img src="https://media.giphy.com/media/WUlpl
 ![github-user-contribution](https://github.com/HosseinJafari2001/HosseinJafari2001/assets/70998598/a62481ef-673b-40c5-ab9d-91510a0eba30)
   
 </h1>
-
+-->
 
 <h2 dir="auto"><a id="user-content---some-tools-i-have-used-and-learned" class="anchor" aria-hidden="true" href="#--some-tools-i-have-used-and-learned"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> &nbsp;Some Tools I Have Learned</h2>
   
@@ -133,12 +134,12 @@ I am a Electrical Engineer student <img src="https://media.giphy.com/media/WUlpl
 </p>
 
 </h1>
-
+<!--
 ### 🔝 Top Contributed Repo
 <h1 align="center">
-  
+<!--  
   ![](https://github-contributor-stats.vercel.app/api?username=HosseinJafari2001&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
-  
+<!--  
 </h1>
 
 

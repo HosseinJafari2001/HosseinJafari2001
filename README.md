@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
-- :telescope: I’m working as an Electrical Engineer and contributing to distribution girds and AI.
+- :telescope: I’m working as an Electrical Engineer and contributing to distribution grids and AI.
 
 - :seedling: Exploring Technical Content Writing.
 

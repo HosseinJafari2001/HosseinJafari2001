@@ -43,7 +43,7 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
 
 - :telescope: I’m working as an Electrical Engineer and contributing to distribution grids and AI.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I’m currently learning, besides living.
 
 - :zap: I hang out and read tech articles in my free time.
 <!--

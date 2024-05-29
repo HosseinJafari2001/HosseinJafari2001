@@ -46,8 +46,10 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: I hang out and read tech articles in my free time.
-
+<!--
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HosseinJafari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-jafari2001/)
+-->
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-HosseinJafari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-jafari2001/)
 
 ---
 

@@ -47,7 +47,7 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
 
 - 🌊 besides living. flowed, like the river ~~~
 
-- :zap: I hang out and read articles and coding in my free time.
+- :zap: I hang out with nice people, read articles, and code in my free time.
 <!--
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HosseinJafari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-jafari2001/)
 -->

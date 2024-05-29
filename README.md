@@ -49,7 +49,7 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
 <!--
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HosseinJafari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-jafari2001/)
 -->
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-HosseinJafari-red?style=flat&logo=Gmail&logoColor=white)](mailto:hossein.jafari.ee.sbu@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-hossein.jafari.ee.sbu@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:hossein.jafari.ee.sbu@gmail.com)
 
 ---
 

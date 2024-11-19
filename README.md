@@ -71,7 +71,7 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/hoseinjfrii/">
-    <img src="https://img.shields.io/badge/Instagram-%2300599C.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Instagram-C51A4A?style=for-the-badge&logo=Instagram"/>
   </a>
 </div>
 

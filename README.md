@@ -70,7 +70,7 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a>
   <a href="https://t.me/Hosseinjfrii">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/hoseinjfrii/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>

@@ -73,7 +73,7 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/hoseinjfrii/">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
+    <img src="https://img.shields.io/badge/Instagram-%instagram-1-svgrepo-com.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 

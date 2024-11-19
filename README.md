@@ -45,7 +45,7 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: I’m currently growing
 
-- 🌊 besides living. flowed, like the river ~~~
+- 🌊 Flowed, like the river ~~~
 
 - :zap: I hang out with nice people, read articles, and code in my free time.
 <!--
@@ -64,8 +64,8 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
   <a href="https://github.com/HosseinJafari2001?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://twitter.com/javedan_zi">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/javedan_zi">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://t.me/Hosseinjfrii">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>

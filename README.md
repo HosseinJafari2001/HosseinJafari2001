@@ -1,4 +1,6 @@
 
+
+
 <!--
 **HosseinJafari2001/HosseinJafari2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -71,7 +73,7 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/hoseinjfrii/">
-    <img src="https://img.shields.io/badge/-Instagram-(linear-gradient(45deg,#515BD4,#8134AF,#DD2A7B,#FEDA77,#F58529))?style=for-the-badge&logo=Instagram"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" />
   </a>
 </div>
 

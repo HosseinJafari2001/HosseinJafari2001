@@ -93,9 +93,9 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
 
 <h1 align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=HosseinJafari2001&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--   ![](https://github-readme-stats.vercel.app/api?username=HosseinJafari2001&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HosseinJafari2001&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats) 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HosseinJafari2001&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats) -->
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinJafari2001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

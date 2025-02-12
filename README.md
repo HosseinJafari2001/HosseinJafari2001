@@ -61,14 +61,14 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hossein-jafari2001/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/HosseinJafari2001?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://x.com/javedan_zi">
+  <!--<a href="https://x.com/javedan_zi">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
+  </a>-->
   <a href="https://t.me/Hosseinjfrii">
     <img src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>

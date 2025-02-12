@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 </h1>
 -->
 
-<h1 align="center">
+<!--<h1 align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=HosseinJafari2001&label=Profile%20Views&color=7&icon=0&pretty=true" />
   </a>
-</h1>
+</h1>-->
 
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>

@@ -63,8 +63,8 @@ I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlp
   <a href="https://www.researchgate.net/profile/Hossein-Jafari-29?ev=hdr_xprf">
     <img src="https://img.shields.io/badge/ResearchGate-white?style=for-the-badge&logo=researchgate&logoColor=black" alt="ResearchGate Badge"/>
   </a>
-  <a href="https://t.me/Hosseinjfrii">
-    <img src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://scholar.google.com/citations?hl=en&user=wbn0CloAAAAJ&view_op=list_works&sortby=pubdate">
+    <img src="https://img.shields.io/badge/Scholar-27A7E7?style=for-the-badge&logo=scholar&logoColor=white" alt="Scholar Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/hossein-jafari2001/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

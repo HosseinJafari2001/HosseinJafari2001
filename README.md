@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am an Electrical Engineer student from Iran.
 
-- :telescope: I’m working as an Electrical Engineer and contributing to distribution grids and AI.
+- :telescope: I also looking to combine the consumption of distribution grids and AI.
 
-- :seedling: I’m currently growing
+- :seedling: Currently growing...
 
-- 🌊 Flowed, like the river ~~~
+- 🌊 Flowed, like a river ~~~
 
 - :zap: I hang out with nice people, read articles, and code in my free time.
 <!--

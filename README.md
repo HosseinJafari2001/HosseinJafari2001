@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am an Electrical Engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am an Electrical Engineer student from Iran.
 
 - :telescope: I’m working as an Electrical Engineer and contributing to distribution grids and AI.
 

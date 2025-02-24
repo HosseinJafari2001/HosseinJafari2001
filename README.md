@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HosseinJafari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-jafari2001/)
 -->
 - :mailbox: I'm eager to continue collaboration with you to implement and research their common ideas. Please reach me via this Email:
+
   [![Gmail Badge](https://img.shields.io/badge/-hossein.jafari.ee.sbu@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:hossein.jafari.ee.sbu@gmail.com)
 
 ---

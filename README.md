@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   <a href="https://t.me/Hosseinjfrii">
     <img src="https://img.shields.io/badge/Telegram-27A7E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.instagram.com/hoseinjfrii/">
+  <a href="https://www.instagram.com/never.gottaknow/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
